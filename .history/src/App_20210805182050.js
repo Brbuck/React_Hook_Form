@@ -1,4 +1,4 @@
-import Formulario from './components/Form/index';
+import Formulario from './components/Form';
 import './Styles/style.css'
 
 function App() {

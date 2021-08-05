@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+  }
+  html {
+    min-height: 100%;
+    background: var(--color-white);
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+  }
+  *, button, input {
+    border: 0;
+    background: none;
+    font-family: 'Montserrat', -apple-system,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+  }
+
+  p{
+      font-size: 1rem;
+      color: #FF0000;
+      margin-top: 3px;
+  }
+
