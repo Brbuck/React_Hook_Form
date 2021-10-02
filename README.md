@@ -1,7 +1,11 @@
 # React_Hook_Form
 Formulário com React Hook Form
 
-## Techs
+# Sobre o Projeto
+
+Um Formulário básico utilizando o React Hook Form para fins de estudo.
+
+## Tecnologias
 
 * React
 * Styled Components
@@ -9,15 +13,15 @@ Formulário com React Hook Form
 * Yup 
 
 
-## Starting Dev Environment
+## Ambiente de desenvolvimento inicial
 
-    * Run npm install or yarn install.
-    * Run yarn start.
-    * npm i styled-components
-    * npm i react-hook-form
-    * npm i yup
+ * npm install or yarn install.
+ * npm start ou yarn start.
+ * npm i styled-components
+ * npm i react-hook-form
+ * npm i yup
 
-## Projeto
 
-Um Formulário básico utilizando o React Hook Form
+
+   
 
